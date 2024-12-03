@@ -1,0 +1,42 @@
+.top-page{
+	background-color: rgb(255, 255, 255);
+}
+#home{
+	background-color:rgba(41, 34, 34, 0.903);
+	padding-top: 30px;
+	padding-left: 160px;
+	
+}
+#home h1{
+	color: rgb(255, 255, 255);
+	font-size: 70px;
+	font-family: sans-serif;
+}
+#home p{
+	color: rgb(255, 255, 255);
+	font-family: sans-serif;
+	font-size: 20px;
+}
+#home-hr{
+	display: inline-block;
+	border: 5px solid rgb(226, 194, 12);
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px;
+	background-color: rgb(226, 194, 12);
+}
+#home-hc{
+	display: inline-block;
+	border: 5px solid rgb(226, 194, 12);
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px;
+	color: rgb(255, 255, 255);
+}
+
+#web{
+	display: inline-block;
+	border: 5px solid rgb(110, 157, 214);
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px;
+	background-color: rgb(110, 157, 214);
+    color: rgb(255, 255, 255);
+}
